@@ -1,0 +1,12 @@
+form {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+}
+select {
+    margin: 1px;
+}
+#txtHint {
+    margin-top: 80px;
+}
