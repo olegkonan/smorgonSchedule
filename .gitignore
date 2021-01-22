@@ -4,3 +4,5 @@ package-lock.json
 .editorconfig
 package.json
 webpack.config.js
+.gitignore
+/old-data
